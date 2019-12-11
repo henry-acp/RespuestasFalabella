@@ -1,0 +1,17 @@
+A continuacion, explique con sus propias palabras los siguientes conceptos:
+
+1. Pruebas de Contrato
+
+
+2. API Rest.
+Respuesta: Interfaz que permite se comuniquen distintos aplicaciones.  “Estándar lógico y eficiente para la creación de servicios web.”
+
+3. Integración Continua.
+Respuesta: Es un modelo que busca que todas las etapas de desarrollo se realicen de forma automatizada, permitiendo detectar de forma temprana los errores en las distintas etapas de desarrollo.
+
+4. Despliegue Continuo.
+Respuesta: Despliegue continuo se refiera al mecanismo que nos permite automatizar los despliegues en producción tanto de aplicativos como de BD.
+
+
+5. Mencione algunas herramientas para realizar pruebas a API y Web Services.
+Respuesta  Soap ui PostMan
